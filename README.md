@@ -82,5 +82,7 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 </footer>
 
 # End Header
-
-This is a test of using markdown format
+I am practising using formatting
+## smaller header
+### even smaller header
+###### even smaller header
